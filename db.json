@@ -1,0 +1,48 @@
+{
+  "nba-players": [
+    {
+      "id": "2ee4",
+      "nombre": "lebron james",
+      "equipo": "angeles lakers",
+      "marcas": [
+        {
+          "nombre": "nike"
+        },
+        {
+          "nombre": "airbnb"
+        },
+        {
+          "nombre": "aura"
+        }
+      ]
+    }
+  ],
+  "head-coach": [
+    {
+      "nombre": "erik spoltra",
+      "equipo": "miami-heat",
+      "nacionalidad": "usa",
+      "id": "54d3"
+    },
+    {
+      "nombre": "steve kerr",
+      "equipo": "golden state",
+      "nacionalidad": "usa",
+      "id": "3d8a"
+    }
+  ],
+  "team": [
+    {
+      "nombre": "golden state",
+      "ciudad": "san francisco",
+      "capacidad-estadio": 100000,
+      "id": "f454"
+    },
+    {
+      "nombre": "timberwolves",
+      "ciudad": "minesota",
+      "capacidad-estadio": 5000,
+      "id": "6872"
+    }
+  ]
+}
